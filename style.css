@@ -1,3 +1,6 @@
 .mainTitleGroup {
-    margin: auto;
+    align-content: center;
+}
+.mainTitle {
+    text-align: center;
 }
