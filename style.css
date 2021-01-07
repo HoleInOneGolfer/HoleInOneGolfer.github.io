@@ -1,0 +1,26 @@
+header {
+    text-align: center;
+    background-color: #059e5e;
+    margin: auto;
+    width: inherit;
+    padding: 30px;
+}
+.pheader {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #1f1f3b;
+    text-decoration-line: underline;
+}
+nav {
+    text-align: center;
+    background-color: #01472a;
+    padding: 10px;
+}
+.navbar {
+    padding: 20px;
+    color: #c0c0c0;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
