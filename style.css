@@ -24,6 +24,10 @@ nav {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
+.navbar:hover {
+    font-weight: bolder;
+    background-color: #317056;
+}
 .indexHead {
     text-emphasis: none;
 }
