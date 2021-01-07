@@ -3,7 +3,7 @@ header {
     background-color: #059e5e;
     margin: auto;
     width: inherit;
-    padding: 30px;
+    padding: 70px;
 }
 .pheader {
     font-size: 50px;
@@ -25,14 +25,14 @@ nav {
     font-size: 20px;
 }
 .indexHead {
-    padding: auto;
+    text-emphasis: none;
 }
 .worksHead {
-    padding: auto;
+    text-emphasis: none;
 }
 .aboutHead {
-    padding: auto;
+    text-emphasis: none;
 }
 .contactHead {
-    padding: auto;
+    text-emphasis: none;
 }
