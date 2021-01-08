@@ -57,8 +57,13 @@ footer {
     width: 100%;
 }
 .socialLinks {
-    align-items: center;
+    text-align: center;
+    padding: 10px;
 }
 .bio {
     text-align: center;
+}
+.socialImage {
+    width: auto;
+    height: 100px;
 }
