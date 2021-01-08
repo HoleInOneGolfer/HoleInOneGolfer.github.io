@@ -56,3 +56,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+.socialLinks {
+    align-items: center;
+}
+.bio {
+    text-align: center;
+}
