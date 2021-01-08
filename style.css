@@ -1,12 +1,13 @@
+body {
+    margin:0;
+}
 header {
     text-align: center;
     background-color: #059e5e;
-    margin: auto;
-    width: inherit;
-    padding: 70px;
+    padding: 40px;
 }
 .pheader {
-    font-size: 50px;
+    font-size: 70px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: #1f1f3b;
@@ -15,10 +16,10 @@ header {
 nav {
     text-align: center;
     background-color: #01472a;
-    padding: 10px;
+    padding: 30px;
 }
 .navbar {
-    padding: 20px;
+    padding: 30px;
     color: #c0c0c0;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
@@ -44,4 +45,14 @@ nav {
     float:left;
     width: auto;
     height: auto;
+}
+footer {
+    text-align: center;
+    background-color: #034228;
+    color: #c0c0c0;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
