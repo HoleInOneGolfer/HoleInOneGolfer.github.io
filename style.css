@@ -66,3 +66,13 @@ footer {
     width: auto;
     height: 100px;
 }
+.bioHead {
+    font-size: 36px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bioBody {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
