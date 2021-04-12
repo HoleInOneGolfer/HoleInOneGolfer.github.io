@@ -1,8 +1,12 @@
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
 }
 .Page_Title {
     background-color: rgb(71, 151, 255);
     padding: 4px;
+}
+body{
+    margin: 0;
 }
