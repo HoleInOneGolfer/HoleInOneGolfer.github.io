@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    color: rgb(177, 177, 177);
     
 }
 .Page_Title {
@@ -13,4 +14,14 @@ body{
 }
 header{
     padding: 0;
+}
+nav{
+    background-color: rgb(46, 89, 146);
+    padding: 0;
+    text-align: center;
+}
+a {
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
 }
