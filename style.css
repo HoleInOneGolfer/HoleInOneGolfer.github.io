@@ -5,26 +5,8 @@
     font-size: xx-large;
 }
 
-#navigationBar {
-    color: inherit;
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    color:rgb(64, 255, 47);
-    font-size: large;
-}
-
-hr {
-    border-top: 10px solid rgb(64, 255, 47);
-    border-bottom: none;
-
-}
-
-li a {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    background-color: black;
-    display: inline;
-    display: block;
+#navbar {
+    background-color: white;
 }
 
 body {
