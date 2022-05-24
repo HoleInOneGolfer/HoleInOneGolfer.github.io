@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #f8f9fa;
+
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1rem;
+}
+
+ul {
+    text-align: left;
+}
+
+nav > a {
+    color: #212529;
+    text-decoration: none;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+
+    color: #007bff;
+}
