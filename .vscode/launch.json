@@ -1,8 +1,16 @@
 {
     "configurations": [
         {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Launch Firefox",
+            "url": "http://127.0.0.1:3000/docs/index.html",
+            "webRoot": "${workspaceFolder}/docs"
+        },
+        {
             "type": "pwa-chrome",
-            "name": "http://127.0.0.1:3000/docs/index.html",
+            "name": "Launch Chrome",
             "request": "launch",
             "url": "http://127.0.0.1:3000/docs/index.html"
         }

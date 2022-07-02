@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Bungee';
+    src: url('./Bungee-Regular.ttf');
+}
+
+html {
+    scroll-behavior: smooth;
+
+    font-family: 'Bungee';
+    text-align: center;
+
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+body {
+    margin: auto;
+    padding: 0px;
+    
+}
