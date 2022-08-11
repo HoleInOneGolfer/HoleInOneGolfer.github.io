@@ -1,22 +1,7 @@
-@font-face {
-    font-family: 'Bungee';
-    src: url('./Bungee-Regular.ttf');
-}
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 
-html {
-    scroll-behavior: smooth;
-
-    font-family: 'Bungee';
-    text-align: center;
-
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-body {
-    margin: auto;
-    padding: 0px;
-    
+    justify-content: space-around;
 }
