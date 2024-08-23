@@ -1,0 +1,26 @@
+/* FancyLink.module.css */
+.fancyLink {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ff4500;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 69, 0, 0.7);
+    transition: background-color 0.3s, box-shadow 0.3s, transform 0.3s;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.fancyLink:hover {
+    background-color: #e03c00;
+    box-shadow: 0 0 25px rgba(255, 69, 0, 0.9);
+}
+
+.fancyLink:active {
+    transform: translateY(4px);
+    background-color: #cc3300;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "holeinonegolfer-github-io",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:host": "vite --host",
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "@vitejs/plugin-legacy": "^5.4.2",
+    "terser": "^5.31.6",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1"
+  }
+}
