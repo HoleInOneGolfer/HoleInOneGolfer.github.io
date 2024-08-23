@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Terms of Service"
-permalink: /tos/
+layout: custom
 ---
 
 # Terms of Service
